@@ -1,0 +1,15 @@
+c:\users\djz\documents\visual studio 2013\Projects\New\New\bin\Debug\New.exe.config
+c:\users\djz\documents\visual studio 2013\Projects\New\New\obj\Debug\New.Form1.resources
+c:\users\djz\documents\visual studio 2013\Projects\New\New\obj\Debug\New.Properties.Resources.resources
+c:\users\djz\documents\visual studio 2013\Projects\New\New\obj\Debug\New.csproj.GenerateResource.Cache
+c:\users\djz\documents\visual studio 2013\Projects\New\New\bin\Debug\New.exe
+c:\users\djz\documents\visual studio 2013\Projects\New\New\bin\Debug\New.pdb
+c:\users\djz\documents\visual studio 2013\Projects\New\New\obj\Debug\New.exe
+c:\users\djz\documents\visual studio 2013\Projects\New\New\obj\Debug\New.pdb
+c:\users\djz\documents\visual studio 2013\Projects\New\New\obj\Debug\New.Form2.resources
+C:\Users\DJZ\Documents\Visual Studio 2013\Projects\New\New\obj\Debug\New.Form3.resources
+C:\Users\DJZ\Documents\Visual Studio 2013\Projects\New\New\obj\Debug\New.Welcome.resources
+C:\Users\DJZ\documents\visual studio 2013\Projects\New\New\obj\Debug\New.Form4.resources
+C:\Users\DJZ\documents\visual studio 2013\Projects\New\New\obj\Debug\New.Upload.resources
+C:\Users\DJZ\Documents\Visual Studio 2013\Projects\New\New\obj\Debug\New.csprojResolveAssemblyReference.cache
+C:\Users\DJZ\Documents\Visual Studio 2013\Projects\New\New\obj\Debug\New.Form0.resources
